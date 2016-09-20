@@ -1,2 +1,3 @@
 # android-hello-world
 Testing the basic github functionality for code control...
+Here is an attached zip file containing all the code of Android basic Hello World Application
